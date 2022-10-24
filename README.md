@@ -48,7 +48,7 @@ RUNNING AND TESTING EASYCHAT SERVER REMOTE APPS
 
 
 
-Video demonstration and Pictures coming soon
+Video demonstration and Pictures to be found in 'processes' folder
 
 
 
